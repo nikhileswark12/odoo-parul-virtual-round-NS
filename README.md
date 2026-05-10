@@ -1,8 +1,8 @@
-# 🌍 Traveloop
+# 🌍 DesiVagabond
 
 > **A personalized travel planning platform designed to simplify and enhance the travel experience.**
 
-Traveloop allows users to create, manage, and share customized multi-city itineraries with budgeting, activity planning, and collaborative travel tools. The goal is to provide travelers with an intuitive and interactive platform where they can organize trips efficiently, visualize schedules, estimate expenses, and explore destinations seamlessly.
+DesiVagabond allows users to create, manage, and share customized multi-city itineraries with budgeting, activity planning, and collaborative travel tools. The goal is to provide travelers with an intuitive and interactive platform where they can organize trips efficiently, visualize schedules, estimate expenses, and explore destinations seamlessly.
 
 ---
 
@@ -97,7 +97,7 @@ PORT=3000
 
 ## 🗄️ Database
 
-Traveloop uses **SQLite** as the primary database, managing:
+DesiVagabond uses **SQLite** as the primary database, managing:
 
 - Users
 - Trips
