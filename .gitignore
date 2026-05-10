@@ -3,3 +3,7 @@ node_modules/
 data/
 .cursor/
 seed.js
+
+dist/
+data/
+backend/.env
